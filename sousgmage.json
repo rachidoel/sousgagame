@@ -6,19 +6,19 @@ FANbannerIDBegin             FANbannerIDLast
 FANinterstitialIDBegin        FANinterstitialIDLast
 FANrewardIDBegin        FANrewardIDLast
 
-UnityAppIdIDBegin         UnityAppIdIDLast
+UnityAppIdIDBegin5221981UnityAppIdIDLast
 unitybannerIDBegin                   unitybannerIDLast
 unityinterstitialIDBeginInterstitial_AndroidunityinterstitialIDLast
 unityrewardIDBeginRewarded_AndroidunityrewardIDLast	
 
 
-AplovinsdkIDBegin           AplovinsdkIDLast
+AplovinsdkIDBegin      AplovinsdkIDLast
 AplovinbannerIDBegin      AplovinbannerIDLast
 AplovininterstitialIDBegin       AplovininterstitialIDLast
 AplovinrewardIDBegin          AplovinrewardIDLast	
 
 
-irssdkIDBegin193b33ff5irssdkIDLast
+irssdkIDBegin    irssdkIDLast
 irsbannerIDBegin           irsbannerIDLast
-irsinterstitialIDBeginDefaultInterstitialirsinterstitialIDLast
-irsrewardIDBeginDefaultRewardedVideoirsrewardIDLast	
+irsinterstitialIDBegin          irsinterstitialIDLast
+irsrewardIDBegin           irsrewardIDLast	
